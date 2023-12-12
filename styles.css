@@ -1,0 +1,55 @@
+:root{
+    background-color: rgb(172, 172, 172);
+}
+
+h1{
+    text-align: center;
+    font-weight: 100;
+    font-size: 20;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: medium;
+   
+}
+p{
+    font-size: large;
+    text-align: justify;
+}
+
+div.box{
+    width: 664px;
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: center;
+    font-style: initial;
+    font-weight: bolder;
+    
+    
+
+}
+
+div{
+    text-align: center;
+    
+}
